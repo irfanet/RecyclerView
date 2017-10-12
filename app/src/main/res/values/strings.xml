@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="nimMhs">
+        <item>A11.2016.09797</item>
+        <item>A11.2016.09798</item>
+        <item>A11.2016.09799</item>
+        <item>A11.2016.09800</item>
+        <item>A11.2016.09801</item>
+        <item>A11.2016.09802</item>
+    </string-array>
+    <string-array name="detailMhs">
+        <item>Irfan M</item>
+        <item>Mia</item>
+        <item>Alexa</item>
+        <item>Jokowi</item>
+        <item>John Cena</item>
+        <item>Seto Mulyadi</item>
+    </string-array>
+
+</resources>
